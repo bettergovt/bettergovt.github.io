@@ -1,6 +1,41 @@
+## Common Sense Constitution
+
 _Status: drafting_
 
-1. Everyone gets a private room, one public communal space, food, clean
+1. Everyone is provided(people are not required to use) with (in the
+   order listed and under condition survival for every person such as
+   hazard free clean air)
+    + sufficient clean drinkable water
+    + necessary allotment of food
+    + a private room
+        + noise free
+        + with a bed and mattress
+        + with bathroom and shower
+        + temparature controlled/controllable
+        + air ventilated
+        + with drinkable tap water
+        + elctricity
+        + internet connection with personal wifi or equivalent
+        + personal computer with full set of guadget(including headphone,
+          mic, monitor and webcam) with sufficient power for daily work or
+          equivalent
+        + with fire exit
+        + with fire supression system/tool
+        + a table and chair
+        + acess to pen and paper as needed
+        + weather and emergency alert reciving tool
+    + at least 2 full set of clothes for every season
+    + cell phone or equivalent communication tool for receiving and
+      transmitting with others and request emergency assitence
+    + physical map of the area of the room
+    + a GPS or equivalent
+    + access to oven for daily necessity
+    + access to freezer for daily necessity
+
+--- TODO
+
+
+    one public communal space, food, clean
    drinking water, two sets of full set clothes for every season, alert and
    a communication transmitter, a communication and alert receiver, life
    sustaining medicine or other tool, access to emergency responder, access
@@ -18,6 +53,8 @@ _Status: drafting_
       based assistence will be available(immidiately on request) to those
       who can demonstrate adequate hardship(if could not demonstrate
       hardship, govt will charge after the fact).
+2. All rules must be universalized and must be applied to all within govt
+   regulated border
 2. Govt can not pass any law or otherwise limit speech, expression,
    journalism, media access or publishing, protest in public access or
    private space.
