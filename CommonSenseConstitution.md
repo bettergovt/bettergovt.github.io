@@ -1,6 +1,7 @@
-## Common Sense Constitution
-
 _Status: drafting_
+
+## Common Sense Constitution
+_a constitution for real people, here and now, impartial and universal_
 
 1. Everyone is provided(people are not required to use) with (in the
    order listed and under condition survival for every person such as
@@ -9,9 +10,13 @@ _Status: drafting_
     + necessary allotment of food
     + a private room
         + noise free
+        + air ventilated
         + with a bed and mattress
         + with bathroom and shower
+            + soap, lotion, shampoo, toilet paper
         + temparature controlled/controllable
+        + paper towel
+        + adequate lightining
         + air ventilated
         + with drinkable tap water
         + elctricity
@@ -22,15 +27,21 @@ _Status: drafting_
         + with fire exit
         + with fire supression system/tool
         + a table and chair
-        + acess to pen and paper as needed
         + weather and emergency alert reciving tool
-    + at least 2 full set of clothes for every season
+        + clock
+        + lockable door with doorbell and door viewer equivalent
+        + access to
+            + major transportation hubs
+            + direct sunlight
+            + oven/coocker for daily necessity
+            + freezer for daily necessity
+            + pen and paper as needed
+            + at least one communal space
+    + at least 2 full set of clothes, hats and shoes for every season
     + cell phone or equivalent communication tool for receiving and
       transmitting with others and request emergency assitence
     + physical map of the area of the room
     + a GPS or equivalent
-    + access to oven for daily necessity
-    + access to freezer for daily necessity
 
 --- TODO
 
